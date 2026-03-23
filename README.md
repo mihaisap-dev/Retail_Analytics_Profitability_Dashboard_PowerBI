@@ -1,33 +1,36 @@
-#  Dashboard Analiza Retail PowerBI
+#  Retail Analytics & Profitability Dashboard (Power BI)
 
-## Descriere Proiect
-Acest instrument de **Business Intelligence**, realizat în **Power BI**, oferă o analiză detaliată a indicatorilor comerciali pentru o rețea de retail. Proiectul integrează date despre **venituri (4.10M)**, **costuri (2.95M)** și **profitabilitate regională** pentru a sprijini deciziile strategice de business.
-
----
-
-## Indicatori Cheie (KPIs)
-* **Venit Total:** **4.10M**
-* **Profit Total:** **1.15M**
-* **Marja de Profit:** **28.03%**
-* **Eficiență Maximă:** Marjă de peste **60%** identificată în **Sibiu (65.22%)** și **Târgu Mureș (62.16%)**.
+##  Project Overview
+This **Business Intelligence** solution, developed in **Power BI**, provides a comprehensive analysis of commercial performance indicators for a retail network. The project integrates data on **revenue (4.10M)**, **costs (2.95M)**, and **regional profitability** to support strategic business decision-making.
 
 ---
 
-##  Structură Raport
-* **Privire de Ansamblu:** Monitorizarea **volumelor**, a **evoluției profitului** și a indicatorilor principali de performanță.
-* **Analiză Produse:** Clasamentul vânzărilor pe unități (Lider: **Procesor i9** cu **200 unități**) și profitul pe categorii (**IT, Tablete, Accesorii**).
-* **Performanță Regională:** Distribuția profitului pe **harta României** și analiza marjei pe **15 orașe** folosind **formatare condiționată**.
+##  Key Performance Indicators (KPIs)
+* **Total Revenue:** **4.10M**
+* **Total Profit:** **1.15M**
+* **Profit Margin:** **28.03%**
+* **Peak Efficiency:** Margins exceeding **60%** identified in **Sibiu (65.22%)** and **Târgu Mureș (62.16%)**.
 
 ---
 
-##  Detalii Tehnice
-* **Sursă Date:** Date structurate **manual** (**Internal Data Entry**) pentru simularea unui mediu real de retail.
-* **Limbaj DAX:** Utilizat pentru calculul precis al măsurilor de **Profit** și **Marjă %**.
-* **Design UX/UI:** Interfață de tip **"Dark Mode"** optimizată pentru contrast ridicat și vizibilitate sporită.
+##  Report Structure
+* **Executive Overview:** Monitoring **sales volumes**, **profit trends**, and core performance metrics.
+* **Product Analytics:** Sales rankings by units (Leader: **i9 Processor** with **200 units**) and category-based profit (**IT, Tablets, Accessories**).
+* **Regional Performance:** Profit distribution across **Romania's map** and margin analysis for **15 cities** using **conditional formatting**.
 
 ---
 
-##  Prezentare Vizuală
+##  Technical Details
+* **Data Source:** **Manual structured data** (Internal Data Entry) designed to simulate a real-world retail environment.
+* **DAX Language:** Leveraged for precise calculations of **Profit** and **Margin %** measures.
+* **UX/UI Design:** High-contrast **"Dark Mode"** interface optimized for enhanced visibility and professional aesthetics.
+
+---
+
+##  Visual Presentation
 ![Overview](1_General.png)
-![Produse](2_Produse.png)
+![Products](2_Produse.png)
 ![Regional](3_Regional.png)
+
+---
+
